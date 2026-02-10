@@ -1,7 +1,8 @@
 const CONFIG = {
-    API_URL: "http://localhost:8001",
-    REFRESH_INTERVAL: 500
+  API_URL: "https://blaze-backend-nxu0.onrender.com",
+  REFRESH_INTERVAL: 500
 };
+
 
 let historicoLocal = [];
 let historicoCompleto = [];
